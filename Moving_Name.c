@@ -11,7 +11,7 @@ main()
     int x=30,y=10;
     char ch;
     gotoxy(x,y);
-    printf("Harsh");
+    printf("Put Your Name");
     while(1)
     {
         ch=getch();
@@ -34,6 +34,6 @@ main()
             }
     system("cls");
     gotoxy(x,y);
-    printf("Harsh");
+    printf("Put Your Name");
     }
 }
